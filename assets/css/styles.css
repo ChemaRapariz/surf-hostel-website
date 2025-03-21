@@ -4,7 +4,7 @@
     background: url('../img/hero/delphine-ducaruge-lqx7nwaYS9o-unsplash.jpg') no-repeat center center/cover;
 }
 
-.overlay{
+.overlay {
     position: absolute;
     top: 0;
     left: 0;
@@ -28,7 +28,7 @@
 }
 
 /* ---- Benefits Section ---- */
-#benefits-section h3{
+#benefits-section h3 {
     margin: 6rem 0;
 }
 
@@ -36,6 +36,11 @@
     margin-bottom: 6rem;
 }
 
-.benefit-row{
+.benefit-row {
     margin-bottom: 8rem;
+}
+
+/* ---- Rooms Section ---- */
+#rooms-section h3 {
+    margin: 6rem 0;
 }
