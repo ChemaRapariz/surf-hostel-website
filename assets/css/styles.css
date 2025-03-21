@@ -15,15 +15,10 @@
 
 /* ---- Solution Section ---- */
 #solution-section {
-    padding: 8rem 0;
-    position: relative;
+    padding: 9rem 0;
 }
 
-#solution-section .leaf-design {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 20%;
-    opacity: 0.8;
-    z-index: 1;
+#solution-text {
+    margin-bottom: 6rem;
 }
+
